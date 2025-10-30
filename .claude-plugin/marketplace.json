@@ -1,0 +1,22 @@
+{
+  "name": "iceplantengineering-skills",
+  "displayName": "Ice Plant Engineering Skills",
+  "description": "Custom skills for n8n workflow creation and automation",
+  "version": "1.0.0",
+  "author": "Ice Plant Engineering",
+  "license": "MIT",
+  "homepage": "https://github.com/iceplantengineering/skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iceplantengineering/skills.git"
+  },
+  "skills": [
+    {
+      "name": "n8n-workflow-creator",
+      "path": "./skill.md",
+      "description": "Comprehensive n8n workflow creation and automation tool"
+    }
+  ],
+  "tags": ["n8n", "workflow", "automation", "business"],
+  "category": "Development"
+}
